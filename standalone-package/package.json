@@ -1,5 +1,5 @@
 {
-  "name": "@ai-sdk/cactus",
+  "name": "ai-sdk-cactus",
   "version": "0.0.1",
   "description": "Cactus AI SDK Provider",
   "main": "dist/index.mjs",
